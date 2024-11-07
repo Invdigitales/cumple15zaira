@@ -209,6 +209,15 @@ margin-left: 68%;
 
 
 
+ 
+.teespero{
+  width: 45%;
+  margin-top: 25%;
+ margin-left: 28%;
+}
+
+
+
 
 
 
@@ -663,7 +672,7 @@ margin-top: -3%;
 
 
 .logo{
-  width: 30%;
+  width: 15%;
   margin-left: 55%;
   margin-top: -25%;
 }
@@ -780,58 +789,8 @@ margin-left: 43%;
      margin-top: 15%;
 }
 
-.click_2 {
-  padding: 4px 9px;
-  font-size: 25px;
-  border: none;
-  color: rgb(255, 255, 255);
-  background-color: #292929;
-  border-radius: 7px;
-  box-shadow: 2px 2px 30px -5px rgb(170, 170, 170);
-  cursor: pointer;
-  background-size: 50%;
-  font-family: 'Julius Sans One', sans-serif;
-  text-decoration: none;
+
   
-}
-.boton2 {
-  text-align: center;
- margin-top: 8%;
-}
-.parrafo4{
-  text-align: center;
-  font-family: 'Julius Sans One', sans-serif;
-     font-size: 30px;
-     color: #888888;  
-     margin-top: 15%;
-}
-
-
-.boton3{
-  padding: 4px 9px;
-  font-size: 25px;
-  font-weight: 1200;
-  border: none;
-  color: rgb(255, 255, 255);
-  background-color: #292929;
-  border-radius: 7px;
-  box-shadow: 2px 2px 30px -5px rgb(170, 170, 170);
-  cursor: pointer;
-  background-size: 50%;
-  font-family: 'Julius Sans One', sans-serif;
-  text-decoration: none;
-  margin-top: 8%;
-  
-}
-.contenedor-regalo{
-  text-align: center;
-}
-.contenedor-mapa{
-  display: flex;
-justify-content: center;
-align-items: center;
-}
-
 .linea3{
   color:#212121;
   width: 70%;
@@ -845,94 +804,6 @@ align-items: center;
  margin-left: 15%;
  margin-top: 8%;
 }
-.center {
-  height: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.wave {
-  width: 1px;
-  height: 15px;
-  background: linear-gradient(45deg, rgb(85, 85, 85), #fff);
-  margin: 5px;
-  animation: wave 1s linear infinite;
-  border-radius: 20px;
-  margin-top: 5%;
- 
-}
-
-.wave:nth-child(2) {
-  animation-delay: 0.1s;
-}
-
-.wave:nth-child(3) {
-  animation-delay: 0.2s;
-}
-
-.wave:nth-child(4) {
-  animation-delay: 0.3s;
-}
-
-.wave:nth-child(5) {
-  animation-delay: 0.4s;
-}
-
-.wave:nth-child(6) {
-  animation-delay: 0.5s;
-}
-
-.wave:nth-child(7) {
-  animation-delay: 0.6s;
-}
-
-.wave:nth-child(8) {
-  animation-delay: 0.7s;
-}
-
-.wave:nth-child(9) {
-  animation-delay: 0.8s;
-}
-
-.wave:nth-child(10) {
-  animation-delay: 0.9s;
-}
-
-@keyframes wave {
-  0% {
-    transform: scale(0);
-  }
-
-  50% {
-    transform: scale(1);
-  }
-
-  100% {
-    transform: scale(0);
-  }
-}
-
-.esperamos{
-text-align: center;
-font-family: 'Julius Sans One', sans-serif;
-   font-size: 30px;
-   color: #888888;  
-   margin-top: 20%;
-   
-} 
-.caricatura{
-  width: 25%;
-  margin-top: 5%;
- margin-left: 38%;
-}
-.nombres{
-width: 35%;
-margin-left:32%;
-margin-top: -15%;
-
-}
-
 
 
 
